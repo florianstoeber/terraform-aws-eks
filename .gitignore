@@ -12,4 +12,4 @@ eks-admin-service-account.yaml
 config-map-aws-auth*.yaml
 kubeconfig_*
 *.swp
-examples/basic/main.tf
+.examples/basic/main.tf
